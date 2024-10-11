@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in Virtual Reality
-- 🌱 I’m currently learning VR development with Unity
+- 🌱 I’m building multiplayer VR in Unity
+- 👥 I run a VR software company and studio
 - 💞️ I’m looking to collaborate on VR dev
 - 📫 How to reach me danielsisson.com
 
